@@ -1,0 +1,5 @@
+#IP Reputation
+reputation-categories-file: /etc/suricata/iprep/categories.txt
+default-reputation-path: /etc/suricata/iprep
+reputation-files:
+ - mdl.list

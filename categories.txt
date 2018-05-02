@@ -1,0 +1,409 @@
+1,-,DESC
+2,Adware.Cracksearch.A,DESC
+3,Adware.Fusenet,DESC
+4,Android.Trojan.SMSStealer,DESC
+5,Android/Trojan.SMS.FakeInst,DESC
+6,AnonJDB Control Panel,DESC
+7,Backdoor Koutodoor,DESC
+8,Backdoor.Bot,DESC
+9,Backdoor.Bot.MSIL,DESC
+10,Backdoor.Bot.Tor,DESC
+11,Backdoor.IRCBot,DESC
+12,Backdoor.MSIL.P,DESC
+13,Backdoor.Win32.Androm.bwzj,DESC
+14,Bleeding Life exploit kit,DESC
+15,Bot,DESC
+16,Bot.C2,DESC
+17,Bredolab C&C,DESC
+18,Browlock  Fake.TechSupport,DESC
+19,Browlock  Malvertising,DESC
+20,Browlock.Fake.TechSupport,DESC
+21,Browlock.FakeInfection,DESC
+22,Browlock.Malvertising,DESC
+23,Browser Ransomware,DESC
+24,CRiMEPACK,DESC
+25,CVE-2014-6332 exploit,DESC
+26,Cerber ransomware,DESC
+27,Compromised site  leads to exploit,DESC
+28,Compromised site (DHL malspam campaign)  leads to Upatre,DESC
+29,Compromised site (Natwest malspam campaign)  leads to Upatre,DESC
+30,Compromised site (Sage malspam campaign)  leads to Upatre,DESC
+31,Compromised site leading to exploit,DESC
+32,Compromised site leading to fake AV,DESC
+33,Cool exploit kit,DESC
+34,CrimeBoss exploit kit,DESC
+35,CrimePack exploit kit,DESC
+36,CritXPack exploit kit,DESC
+37,Cryptowall download script,DESC
+38,Cryptowall ransomware,DESC
+39,Cryptowall ransomware C&C,DESC
+40,Cutwail/Pushdo,DESC
+41,DOS service,DESC
+42,DR/AutoIt.Gen2,DESC
+43,Destination of banking phishing,DESC
+44,Dialler.GlobalAccess,DESC
+45,Directs to exploits,DESC
+46,Directs to rogue,DESC
+47,Directs to sites with exploits,DESC
+48,Document.zip Trojan.Email.Gen,DESC
+49,Document.zip Trojan.Kryptic,DESC
+50,Drive-by,DESC
+51,ESET phishing,DESC
+52,Eleonore Exploits pack v1.4.4mod,DESC
+53,Eleonore Exploits pack version 1.4.4mod,DESC
+54,Eleonore exploit pack,DESC
+55,Exploit,DESC
+56,Exploits,DESC
+57,Fake Antivirus,DESC
+58,Fake Google Chrome,DESC
+59,Fake.FlashPlayer.Trojan,DESC
+60,FakeAV,DESC
+61,Fraud Skype setup,DESC
+62,Gateway for Sweet Orange EK,DESC
+63,Gen:Variant.Strictor.51736,DESC
+64,Gen:Variant.Symmi.35186,DESC
+65,Generic Malware,DESC
+66,Google Chrome,DESC
+67,Gootkit,DESC
+68,Gozi control panel,DESC
+69,Hosteurope phishing,DESC
+70,IE exploit,DESC
+71,Impact exploit kit,DESC
+72,Incognito exploit kit,DESC
+73,JS.Exploit,DESC
+74,Java drive-by,DESC
+75,Java exploit,DESC
+76,Java exploits serves Poison Ivy,DESC
+77,Java installation abused for installing Java malware,DESC
+78,Keybase keylogger web panel,DESC
+79,Koobface,DESC
+80,Leads to Fake AV,DESC
+81,Leads to Renos trojan,DESC
+82,Leads to Trojan.Banload,DESC
+83,Leads to Trojan.Zbot,DESC
+84,Leads to Win32/InstallRex,DESC
+85,Leads to exploit,DESC
+86,Leads to exploit at jolygoestobeinvester.ru,DESC
+87,Leads to exploit kits,DESC
+88,Leads to fake Google Chrome,DESC
+89,Leads to ransomware,DESC
+90,Leads to trojan,DESC
+91,Linux malware,DESC
+92,MSIL/Bladabindi.F trojan,DESC
+93,MSIL/Bladabindi.O trojan,DESC
+94,MSIL/CoinMiner.CV trojan,DESC
+95,MSIL/Injector.CSR trojan,DESC
+96,MSIL/Injector.CUX trojan,DESC
+97,Mal.FakeFlash,DESC
+98,Malvertising,DESC
+99,Malvertising  Android.FakeAV,DESC
+100,Malvertising  Fake.Cleaner,DESC
+101,Malware calls home,DESC
+102,MasterCard phishing,DESC
+103,Message text for Ransom,DESC
+104,Multiple.Malware,DESC
+105,Oficla/Sasfis C&C,DESC
+106,P2PZeus.WebInject,DESC
+107,PHP.RFI,DESC
+108,PHP.Shell,DESC
+109,PUP.Optional.FileServer.A,DESC
+110,PWS:Win32/Frethog.gen!G,DESC
+111,Part of Impact exploit kit,DESC
+112,PayPal phishing,DESC
+113,Paypal Phishing (Redirect),DESC
+114,Paypal phishing,DESC
+115,Phishing,DESC
+116,Phoenix exploit kit,DESC
+117,PlasmaRAT ACP,DESC
+118,PlugX C&C,DESC
+119,Postbank phishing,DESC
+120,Produce Items.scr Trojan.Email.FakeDoc,DESC
+121,RAR/Agent.AF,DESC
+122,RAR/Agent.X trojan,DESC
+123,RFI,DESC
+124,Ransom  Fake.PCN  Malspam,DESC
+125,Ransom WindowsSecurity,DESC
+126,Ransom message text,DESC
+127,Ransom.WindowsSecurity,DESC
+128,Ransomware,DESC
+129,Ransomware payment processor,DESC
+130,Rechnungs Tool.exe Backdoor.Bot,DESC
+131,Redirects to Rogue.FakeFlashPlayer,DESC
+132,Redirects to Trojan,DESC
+133,Redirects to exploit,DESC
+134,Redirects to trojan,DESC
+135,Rogue,DESC
+136,Rogue AV,DESC
+137,Rootkit.0Access,DESC
+138,Script.Exploit,DESC
+139,Script.Exploit  Embedded links leading to illegal pharma,DESC
+140,Script.iFrame.TDS (via compromised sites),DESC
+141,Siberia exploit pack,DESC
+142,Solar EK,DESC
+143,SpyEye C&C,DESC
+144,SpyEye config file,DESC
+145,Spyeye config file,DESC
+146,Spyware.Password,DESC
+147,Spyware.Zbot,DESC
+148,Spyware.Zbot.ED,DESC
+149,Spyware.Zbot.VXGen,DESC
+150,Spyware.ZeuS,DESC
+151,Spyware.ZeuS.GO,DESC
+152,Sweet Orange exploit kit,DESC
+153,TDSS,DESC
+154,TR/Ransom.243715,DESC
+155,Teslacrypt c&c,DESC
+156,Teslacrypt ransomware c&c,DESC
+157,Trojan,DESC
+158,Trojan..HKWQREW,DESC
+159,Trojan.AdWind,DESC
+160,Trojan.Agent,DESC
+161,Trojan.Agent.AI,DESC
+162,Trojan.Agent.CRV,DESC
+163,Trojan.Agent.DE,DESC
+164,Trojan.Agent.DEED,DESC
+165,Trojan.Agent.ED,DESC
+166,Trojan.Agent.FSA74,DESC
+167,Trojan.Agent.FSAVXGen,DESC
+168,Trojan.Agent.MNR,DESC
+169,Trojan.Agent.rfz,DESC
+170,Trojan.Ageny.ED,DESC
+171,Trojan.Android,DESC
+172,Trojan.Andromeda,DESC
+173,Trojan.Atrax,DESC
+174,Trojan.Autoit,DESC
+175,Trojan.Backdoor,DESC
+176,Trojan.Backdoor  Office.Word.Downloader,DESC
+177,Trojan.Backdoor.Androm.Ar,DESC
+178,Trojan.Banker,DESC
+179,Trojan.Banker.DE,DESC
+180,Trojan.Banload,DESC
+181,Trojan.C&C,DESC
+182,Trojan.Chad,DESC
+183,Trojan.Crypt.NKN,DESC
+184,Trojan.CryptoLocker.CallBack,DESC
+185,Trojan.Delf,DESC
+186,Trojan.Downloader,DESC
+187,Trojan.Downloader.Agent,DESC
+188,Trojan.Downloader.RRE,DESC
+189,Trojan.Dridex,DESC
+190,Trojan.Dropper,DESC
+191,Trojan.Dyre,DESC
+192,Trojan.Email.FakeDoc,DESC
+193,Trojan.Email.Gen,DESC
+194,Trojan.Emogen.U,DESC
+195,Trojan.Extension.Exploit,DESC
+196,Trojan.FakeAV,DESC
+197,Trojan.FakeAdobe,DESC
+198,Trojan.FakeAlert,DESC
+199,Trojan.FakeFlash,DESC
+200,Trojan.FakeMIRC,DESC
+201,Trojan.FakeMS,DESC
+202,Trojan.FakePutt,DESC
+203,Trojan.FareIT,DESC
+204,Trojan.FareIt,DESC
+205,Trojan.IRCbot,DESC
+206,Trojan.Inject,DESC
+207,Trojan.Inject.ED,DESC
+208,Trojan.Injector,DESC
+209,Trojan.Injector.HNNP,DESC
+210,Trojan.Ircbot.SI,DESC
+211,Trojan.Kelihos,DESC
+212,Trojan.Krypt,DESC
+213,Trojan.LVBP,DESC
+214,Trojan.MSIL,DESC
+215,Trojan.MSIL.Injector,DESC
+216,Trojan.Muiref,DESC
+217,Trojan.Napolar,DESC
+218,Trojan.Obfuscated.BX / Lop / Swizzor,DESC
+219,Trojan.P0ny,DESC
+220,Trojan.PWS,DESC
+221,Trojan.PlasmaRAT,DESC
+222,Trojan.PlasmaRAT.Miner,DESC
+223,Trojan.Pony,DESC
+224,Trojan.Ramnit,DESC
+225,Trojan.Ransom,DESC
+226,Trojan.Ransom.ED,DESC
+227,Trojan.SelfDel,DESC
+228,Trojan.Spy,DESC
+229,Trojan.Symmi,DESC
+230,Trojan.Upatre,DESC
+231,Trojan.Zbot,DESC
+232,Trojan.Zbot.CXgen,DESC
+233,Trojan.Zbot.RPE,DESC
+234,Trojan.ZeuS,DESC
+235,Trojan.Zeus.GO,DESC
+236,Trojan.Zeus.GameOver,DESC
+237,TrojanDownloader:Win32/Doneltart.gen,DESC
+238,Used by malspam to lead victims to Trojan.Banload,DESC
+239,VBS.Trojan.Downloader,DESC
+240,VBScript.Drive-by  Backdoor.IRCBot,DESC
+241,VBScript.Trojan.IRC,DESC
+242,W32/Slenfbot.B.gen!Eldorado,DESC
+243,WellsFargo phishing destination,DESC
+244,Win32/Agent.HSDNOGR,DESC
+245,Win32/BitCoinMiner.AU,DESC
+246,Win32/CoinMiner.JG,DESC
+247,Win32/Cryptor,DESC
+248,Win32/Exploit.CVE-2013-3897.A,DESC
+249,Win32/FirseriaInstaller.C,DESC
+250,Win32/Injector.ATFB trojan,DESC
+251,Win32/Injector.ATSD trojan,DESC
+252,Win32/Injector.AXDN,DESC
+253,Win32/Injector.AXIM trojan,DESC
+254,Win32/Injector.AXJG,DESC
+255,Win32/Injector.AYAH,DESC
+256,Win32/Injector.AYKD trojan,DESC
+257,Win32/Injector.AYMT trojan,DESC
+258,Win32/Injector.AYNZ trojan,DESC
+259,Win32/Injector.Autoit.ABQ trojan,DESC
+260,Win32/Injector.Autoit.VH trojan,DESC
+261,Win32/Injector.BHYG trojan,DESC
+262,Win32/Injector.UJN trojan,DESC
+263,Win32/InstallMonetizer,DESC
+264,Win32/Kryptik.BZSH.Gen,DESC
+265,Win32/Spy.Agent.NYU trojan,DESC
+266,Win32/Spy.Zbot.AAQ trojan,DESC
+267,Win32/Trojan.Backdoor,DESC
+268,Win32/Trojan.Genome,DESC
+269,Win32/Trojan.Injects,DESC
+270,Win32/Trojan.Pasta.h,DESC
+271,Win32/Trojan.Spy,DESC
+272,Win32/TrojanDownloader.Wauchos.X,DESC
+273,Win32/TrojanDropper.VB.OJG trojan,DESC
+274,Windows hosts file used by banking trojan,DESC
+275,Worm.Autorun,DESC
+276,Zeus config file,DESC
+277,Zeus drop zone,DESC
+278,Zeus trojan,DESC
+279,Zombie exploitation kit,DESC
+280,anti Trusteer Rapport trojan,DESC
+281,at cope.it-templates-webstat-finanzgruppe_volksbanken_ne.htm Trojan.Email.FakeDoc,DESC
+282,backdoor,DESC
+283,backdoor CycBot,DESC
+284,backdoor Cycbot,DESC
+285,backdoor SdBot,DESC
+286,compromised server with nginx at port 8080,DESC
+287,compromised site directs to exploits,DESC
+288,compromised site leads to Java exploit,DESC
+289,compromised site leads to exploit kit,DESC
+290,compromised sites leads to exploit kit,DESC
+291,compromized site loads external script with exploits,DESC
+292,control panel of CRiMEPACK,DESC
+293,control panel of Eleonore Exploits pack v1.4.1,DESC
+294,control panel of Eleonore Exploits pack v1.4.4mod,DESC
+295,control panel of Eleonore Exploits pack version 1.4.4mod,DESC
+296,control panel of Incognito exploit kit,DESC
+297,control panel of Siberia exploit pack,DESC
+298,control panel of Warbot,DESC
+299,control panel of exploit kit,DESC
+300,directs to Exploits,DESC
+301,directs to exploits,DESC
+302,directs to rogue,DESC
+303,directs to sites with exploits,DESC
+304,directs to trojan,DESC
+305,exploit,DESC
+306,exploit kit,DESC
+307,exploit kit / requires Google referrer,DESC
+308,exploits,DESC
+309,fake AV,DESC
+310,fake Flash player,DESC
+311,fake alert page,DESC
+312,fake av,DESC
+313,fake crack site directs to trojan,DESC
+314,fake infection page,DESC
+315,fake scanner page,DESC
+316,gateway to EK,DESC
+317,iFrame.Exploit,DESC
+318,iFrame.Exploit (injected into compromised sites  e.g. www.plantes-sauvages.fr/fiche_lierre_terrestre.htm),DESC
+319,iFrames to Exploit,DESC
+320,iframe directs to LuckySploit,DESC
+321,iframe directs to exploit,DESC
+322,iframe directs to exploit kits,DESC
+323,iframe directs to redirector/exploits,DESC
+324,iframe leads to CritXPack exploit kit,DESC
+325,iframe leads to Java exploit,DESC
+326,iframe leads to exploit kit,DESC
+327,iframe on compromised site leads EK,DESC
+328,iframe on compromised site leads to EK,DESC
+329,iframe on compromised site leads to exploit kit,DESC
+330,infection counter,DESC
+331,irc backdoor,DESC
+332,java exploit,DESC
+333,leads to CryptoLocker,DESC
+334,leads to exploit kit,DESC
+335,leads to fake flashplayer,DESC
+336,leads to fake flashplayer installer at OneDrive,DESC
+337,leads to malicious download on Mediafire,DESC
+338,leads to ransom trojan message page,DESC
+339,leads to ransomware,DESC
+340,leads to trojan Banker,DESC
+341,maklware calls home,DESC
+342,malware calls home,DESC
+343,malware calls home  returns base64 encoded url list,DESC
+344,malware calls home over SSL,DESC
+345,multiple threats,DESC
+346,obfuscated Javascript leads to fake flash player site,DESC
+347,obfuscated iframe directs to LuckySploit,DESC
+348,obfuscated iframe directs to exploit kit,DESC
+349,obfuscated iframe directs to exploits,DESC
+350,obfuscated iframe leads to Nuclear exploit kit,DESC
+351,obfuscated iframe leads to exploit,DESC
+352,obfuscated iframe leads to exploit kit,DESC
+353,obfuscated iframe on compromised site leads to exploit kit,DESC
+354,obfuscated script / java downloader,DESC
+355,obfuscated script directs to exploits,DESC
+356,pdf exploit,DESC
+357,phishing,DESC
+358,phishing site,DESC
+359,phishing/fraud,DESC
+360,pony loader c&c,DESC
+361,ransomware,DESC
+362,redirecting to Sweet Orange exploit kit with Google referrer,DESC
+363,redirects to Paypal phishing,DESC
+364,redirects to Postbank phishing,DESC
+365,redirects to Rogue if referer is a search engine,DESC
+366,redirects to exploit,DESC
+367,redirects to exploit kit,DESC
+368,redirects to exploits,DESC
+369,redirects to fake av,DESC
+370,redirects to rogue,DESC
+371,redirects to trojan,DESC
+372,redirects to trojan TDSS,DESC
+373,redirects to trojan download,DESC
+374,redirects to trojan download at SugarSync,DESC
+375,related to a Mirai windows spreader trojan,DESC
+376,return malware url,DESC
+377,returns malware url,DESC
+378,returns malware url base64 encoded,DESC
+379,trojan,DESC
+380,trojan Bamital,DESC
+381,trojan Bancos,DESC
+382,trojan Banker,DESC
+383,trojan Banload,DESC
+384,trojan Bredolab,DESC
+385,trojan Casino,DESC
+386,trojan FireThief,DESC
+387,trojan Gataka,DESC
+388,trojan Oficla/Sasfis,DESC
+389,trojan OnlineGames,DESC
+390,trojan Peerfit,DESC
+391,trojan Ramnit,DESC
+392,trojan Ransom,DESC
+393,trojan Ransom message text,DESC
+394,trojan Redosdru,DESC
+395,trojan SpyEye,DESC
+396,trojan Swizzor,DESC
+397,trojan TDSS,DESC
+398,trojan Vilsel,DESC
+399,trojan Yimfoca,DESC
+400,trojan ZeroAccess/Sirefef,DESC
+401,trojan download,DESC
+402,trojan downloader,DESC
+403,trojan inside zip file,DESC
+404,trojandownloader Vilsel,DESC
+405,trojans,DESC
+406,vbscript downloader,DESC
+407,ycuF2Zy9WLk5WYtM3buFWaw1ycld3bs5yd3d3LvoDc0RHa8NnZ exploit kit,DESC
+408,zeus config file,DESC
+409,zeus drop zone,DESC
